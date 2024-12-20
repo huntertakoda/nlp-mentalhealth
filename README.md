@@ -11,11 +11,6 @@ This project performs sentiment analysis using both traditional machine learning
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Dataset](#dataset)
-4. [Setup Instructions](#setup-instructions)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Future Improvements](#future-improvements)
-8. [Acknowledgments](#acknowledgments)
 
 ---
 
